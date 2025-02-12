@@ -95,7 +95,7 @@ Testes de mesa foram utilizados para simular a execução do programa passo a pa
 ## Certificado 🎓
 
 Ao concluir o curso "Lógica de Programação: começando a desenvolver seus primeiros programas - Turma 2025A", recebi um certificado de conclusão. Este certificado reconhece o aprendizado e as habilidades adquiridas no desenvolvimento de programas simples, utilizando o Portugol Studio e a compreensão de variáveis, operadores e manipulação de entrada e saída de dados.
---
+***
 ![Lógica_de_Programação_começando_a_desenvolver_seus_primeiros_programas-Certificado_digital_2978869-imagens-0](https://github.com/user-attachments/assets/a5f2265d-0903-4226-9c60-7303f73f1bf5)
 ![Lógica_de_Programação_começando_a_desenvolver_seus_primeiros_programas-Certificado_digital_2978869-imagens-1](https://github.com/user-attachments/assets/87614c0a-d288-492b-bb1e-635fcfb9dacd)
 
