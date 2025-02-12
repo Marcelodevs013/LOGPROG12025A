@@ -5,7 +5,7 @@ Ao concluir o curso "Lógica de Programação: começando a desenvolver seus pri
 ***
 ![Lógica_de_Programação_começando_a_desenvolver_seus_primeiros_programas-Certificado_digital_2978869-imagens-0](https://github.com/user-attachments/assets/a5f2265d-0903-4226-9c60-7303f73f1bf5)
 ![Lógica_de_Programação_começando_a_desenvolver_seus_primeiros_programas-Certificado_digital_2978869-imagens-1](https://github.com/user-attachments/assets/87614c0a-d288-492b-bb1e-635fcfb9dacd)
-
+***
 # Lógica de Programação: Começando a Desenvolver Seus Primeiros Programas - Turma 2025A 📚👨‍💻
 
 Este repositório contém os aprendizados e exercícios do curso "Lógica de Programação: começando a desenvolver seus primeiros programas", focando nos conceitos fundamentais de programação.
