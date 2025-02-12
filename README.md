@@ -19,21 +19,18 @@ O curso começou com a introdução aos conceitos básicos de programação, com
 Um programa de computador é um conjunto de instruções que o computador segue para realizar uma tarefa específica. O Portugol Studio foi utilizado para escrever e rodar programas de exemplo.
 
 ### 1.3 Link para Download do Portugol Studio 🌐
-Você pode baixar o Portugol Studio [aqui](https://www.portugolstudio.com.br).
+Você pode baixar o Portugol Studio [aqui](https://univali-lite.github.io/Portugol-Studio/).
 
 ### 1.4 Meu primeiro programa 📝
 Meu primeiro programa foi feito no Portugol Studio. O programa solicita o nome do usuário e o imprime na tela.
 
-### 1.5 Vídeo de introdução ao Portugol Studio 🎥
-Confira o vídeo de introdução ao Portugol Studio para aprender a configurar e escrever programas simples. 
-
-### 1.6 Variáveis 🔢
+### 1.5 Variáveis 🔢
 Variáveis são usadas para armazenar valores. Aprendemos como declarar e inicializar variáveis no Portugol Studio.
 
-### 1.7 Saída de Dados 📤
+### 1.6 Saída de Dados 📤
 Aprendemos a exibir dados na tela utilizando o comando `escreva` para mostrar informações ao usuário.
 
-### 1.8 Entrada de Dados 📥
+### 1.7 Entrada de Dados 📥
 Com o comando `leia`, podemos capturar informações inseridas pelo usuário. 
 
 #### 1.8.1 Exemplo: Número Digitado 1️⃣
@@ -82,20 +79,17 @@ inicio
 ")
 fimalgoritmo
 ```
-
 ### 1.10 Vídeo sobre Entrada e Saída de Dados, Variáveis e Operadores Aritméticos 🎥
 O vídeo de acompanhamento explica como usar variáveis, operadores e capturar dados de entrada/saída no Portugol Studio.
+[You Tube](https://www.youtube.com/watch?v=qTta8m3CTEo).
 
-### 1.11 Praticando um pouco... 📖
-O exercício prático foi um livro de problemas de lógica, que ajudou a fixar o aprendizado.
-
-### 1.12 Solucionando Erros ⚠️
+### 1.11 Solucionando Erros ⚠️
 Aprendi a identificar e corrigir erros no código com as mensagens de erro e a realizar testes de mesa para entender como o programa funciona.
 
-#### 1.12.1 Mensagens de Erro 🚨
+#### 1.11.1 Mensagens de Erro 🚨
 Ao compilar o código, é importante prestar atenção nas mensagens de erro para corrigir problemas.
 
-#### 1.12.2 Testes de Mesa 🧑‍🏫
+#### 1.11.2 Testes de Mesa 🧑‍🏫
 Testes de mesa foram utilizados para simular a execução do programa passo a passo e entender a lógica do código.
 
 ---
